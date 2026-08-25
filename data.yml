@@ -1535,7 +1535,7 @@ indefinite:
 
 drafts:
 - name: Utopia
-  description: Build wearable or portable battery-powered technology and earn grants and event rewards.
+  description: Build portable battery-powered technology and earn grants and a ticket to a 4 day hackathon.
   website: https://utopia-hc.vercel.app/
   slack: https://hackclub.enterprise.slack.com/archives/C096GEV9TUJ
   slackChannel: "#utopia"
